@@ -1,2 +1,1 @@
-# cpp-program
-c ++
+# cpp-progrfirst c++ program
